@@ -1,0 +1,22 @@
+This README file contains information on the contents of the meta-hello_yocto layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+
+Table of Contents
+=================
+
+  I. Adding the meta-hello_yocto layer to your build
+ II. Misc
+
+
+I. Adding the meta-hello_yocto layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-hello_yocto'
+
+II. Misc
+========
